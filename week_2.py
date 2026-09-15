@@ -29,6 +29,3 @@ print(ninja_turtle_tuple) #? This will print the value of ninja_turtle_tuple
 
 ninja_turtle_skills = {"Leonardo": "Katana", "Michelangelo": "Nunchucks", "Donatello": "Bo Staff", "Raphael": "Sais"} #? This is a dictionary
 print(ninja_turtle_skills) #? This will print the value of ninja_turtle_skills
-
-  git config --global user.email "michael.sekol@mahoningctc.com"
-  git config --global user.name "mjsekol"
