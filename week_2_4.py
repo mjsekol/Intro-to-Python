@@ -1,0 +1,3 @@
+# Functions 
+# What are functions? Functions are blocks of code that perform a specific task. They can take inputs, called parameters, and can return outputs. Functions help to organize code, make it reusable, and improve readability.
+#? Functions are essentially a mini-program within a program. That can be called at any time. Functions can be built-in or user-defined. Built-in functions are provided by Python, while user-defined functions are created by the programmer.
